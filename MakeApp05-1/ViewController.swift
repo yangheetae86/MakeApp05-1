@@ -53,3 +53,6 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
             lblImageFileName.text = imageFileName[row]
             imageView.image = imageArray[row]
         }
+//    override func validate(_ command: UICommand) {
+//        <#code#>
+//}
